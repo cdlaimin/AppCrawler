@@ -1,14 +1,16 @@
 # appcrawler
 
-Appcrawler是一个基于自动遍历的App爬虫工具，支持Android和IOS，支持真机和模拟器。最大的特点是灵活性高，可通过配置来设定遍历的规则。
+Appcrawler是一个基于自动遍历的App爬虫工具，支持Android、iOS、小程序、鸿蒙，支持真机和模拟器。最大的特点是灵活性高，可通过配置来设定遍历的规则。
 
 ## quick start
 
 ```bash
 -------------------------------------------------
-appcrawler 全平台自动遍历测试工具
-Q&A: https://ceshiren.com/c/opensource/appcrawler
-author: seveniruby
+appcrawler 全平台自动遍历测试工具，支持App Web 小程序
+测试人社区 QA: https://ceshiren.com/c/opensource/appcrawler
+企业介绍 company: https://ceba.ceshiren.com
+软件测试开发培训 trainning: https://testing-studio.com
+开发者 author: 测吧（北京）科技有限公司 霍格沃兹测试开发学社 思寒（seveniruby）
 -------------------------------------------------
 
 
@@ -388,10 +390,10 @@ pluginList: []
 [霍格沃兹测试开发学社](https://ceshiren.com/)
 是 [测吧（北京）科技有限公司](http://qrcode.testing-studio.com/f?from=appcrawler&url=https://ceshiren.com/t/topic/14814)
 旗下业界领先的测试开发技术高端教育品牌。 学院课程均由名企一线测试大牛设计，提供实战驱动的系列课程。涵盖移动app自动化测试、接口自动化测试、性能测试、持续集成/持续交付/DevOps 、测试左移、测试右移、测试管理等课程。
-[点击学习!](http://qrcode.testing-studio.com/f?from=appcrawler&url=https://testerh.ke.qq.com?flowToken=1040391)
+[点击学习!](http://qrcode.testing-studio.com/f?from=appcrawler&url=https://rgznv7.course.ceba.ceshiren.com/courses/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%8F%ADv3/%E8%AF%A6%E7%BB%86%E5%A4%A7%E7%BA%B2v7/?flowToken=1040391)
 
 [测吧（北京）科技有限公司](http://qrcode.testing-studio.com/f?from=appcrawler&url=https://ceshiren.com/t/topic/14814)
-是一家服务于测试领域的高科技公司，为企业提供全方位的自动化测试技术支持、测试平台开发定制、测试效能提升等咨询与科研合作服务。 先后服务于华为、工信部、信通院等知名企业与机构。
+是一家服务于测试领域的高科技公司，为企业提供全方位的智能化测试、自动化测试技术支持、测试平台开发定制、测试效能提升等咨询与科研合作服务。 先后服务于华为、工信部、信通院等知名企业与机构。
 
 ## 编译
 
@@ -402,3 +404,12 @@ mvn clean package
 ## 技术交流
 
 由霍格沃兹测试开发学社维护，技术交流与issue提交请移步 https://ceshiren.com/c/opensource/appcrawler/ 交流
+
+## 版本说明
+
+- 2.7 开源版本 只支持appium 1.x
+- 2.8 学员专属版本，支持appium 2以上版本
+
+## 企业服务支持
+
+https://ceshiren.com/t/topic/35534
